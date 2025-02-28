@@ -1,6 +1,7 @@
 # ZLSignals
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.7.
+This simple Angular 19 example doesn't use Zone.js and uses synchronous Signals for change detection.
 
 ## Development server
 
